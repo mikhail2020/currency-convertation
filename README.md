@@ -15,12 +15,12 @@
 - TypeScript: язык программирования для клиентской логики.
 - React: для создания пользовательского интерфейса.
 
-## Начиная
+## начало использования
 
 Чтобы запустить и запустить локальную копию проекта, выполните следующие действия:
 
 1. Клонируем репозиторий:
-    git clone https://github.com/ваше-имя пользователя/currency-conversion-spa.git
+    git clone https://github.com/mikhail2020/currency-convertation/tree/main
 
 2. Запуск проекта скриптом watch
     yarn watch
