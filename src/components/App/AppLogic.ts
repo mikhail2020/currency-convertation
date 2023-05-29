@@ -78,20 +78,3 @@ export default function useAppLogic(props: IAppProps): IAppLogic {
     return result;
 }
 
-// const test = {
-//     ANG: 2.2143,
-//     AUD: 1.8896,
-//     AWG: 2.2143,
-//     AZN: 2.1067,
-//     BAM: 2.2494,
-//     BBD: 2.4741,
-//     BGN: 2.2493,
-//     BHD: 0.4651,
-//     BND: 1.6695,
-//     BOB: 8.5831,
-//     BRL: 6.1515,
-//     BYN: 3.3009,
-//     BZD: 2.4741,
-//     CAD: 1.6803,
-//     CNY: 8.7347
-// }
